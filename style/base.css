@@ -1,0 +1,47 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+.html-tag {
+    padding-top: 10px;
+    border-bottom: dotted 1px grey;
+    width: 100%;
+}
+.header {
+    font-size: large;
+    color: darkmagenta;
+    padding-bottom: 10px;
+}
+.sub-header {
+    font-size: small;
+    color: brown;
+    padding-bottom: 5px;
+}
+.content{
+    padding-left: 5px;            
+}
+
+.text-pdleft30{
+    padding-left: 30px;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-bold {
+    font-weight:  bold;
+}
+.div-note {
+    border: solid 1px goldenrod;
+    width: 80%;
+    margin-left: 5px;  
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.display-image {
+    border: solid 1px cornflowerblue;
+    margin-left: 15px;
+}
